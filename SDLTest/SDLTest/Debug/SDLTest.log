@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SDLTest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Sprite.cpp
+e:\space jam\sdltest\sdltest\sprite.cpp(40): warning C4150: deletion of pointer to incomplete type 'SDL_Renderer'; no destructor called
+  e:\space jam\sdltest\packages\sdl2.v140.2.0.4\build\native\include\sdl_render.h(122): note: see declaration of 'SDL_Renderer'
+e:\space jam\sdltest\sdltest\sprite.cpp(41): warning C4150: deletion of pointer to incomplete type 'SDL_Texture'; no destructor called
+  e:\space jam\sdltest\packages\sdl2.v140.2.0.4\build\native\include\sdl_render.h(128): note: see declaration of 'SDL_Texture'
+  Space.cpp
+  Source.cpp
+  Ship.cpp
+  SDLSetup.cpp
+e:\space jam\sdltest\sdltest\sdlsetup.cpp(6): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  KeyboardSupport.cpp
+  Generating Code...
+  SDLTest.vcxproj -> E:\Space Jam\SDLTest\Debug\Destiel.exe
